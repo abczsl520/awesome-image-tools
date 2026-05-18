@@ -8,6 +8,7 @@ Free online image tools - resize, convert, compress, and edit.
 - [Image to ICO](https://img-kit.com/tools/image-to-ico/) - Create favicon
 
 ## Edit
+- [ClearCrowds](https://clearcrowds.com/) - AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts
 - [Image Resizer](https://img-kit.com/tools/image-resizer/) - Resize images online
 - [Image Cropper](https://img-kit.com/tools/image-cropper/) - Crop images
 - [Add Text](https://img-kit.com/tools/add-text-to-image/) - Add text overlay
