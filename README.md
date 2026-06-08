@@ -2,11 +2,13 @@
 
 Free online image tools - resize, convert, compress, and edit.
 
+- [FreePNGConvert](https://freepngconvert.com/) - Convert WebP to PNG online for free, no upload
 ## Convert
 - [JPG to PNG](https://img-kit.com/tools/jpg-to-png/) - Convert JPEG to PNG
 - [PNG to JPG](https://img-kit.com/tools/png-to-jpg/) - Convert PNG to JPEG
 - [Image to ICO](https://img-kit.com/tools/image-to-ico/) - Create favicon
 
+- [FreePNGConvert](https://freepngconvert.com/) - Convert WebP to PNG online for free, no upload
 ## Edit
 - [Image Resizer](https://img-kit.com/tools/image-resizer/) - Resize images online
 - [Image Cropper](https://img-kit.com/tools/image-cropper/) - Crop images
