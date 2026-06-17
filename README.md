@@ -10,6 +10,7 @@ Free online image tools - resize, convert, compress, and edit.
 ## Edit
 - [Image Resizer](https://img-kit.com/tools/image-resizer/) - Resize images online
 - [Image Cropper](https://img-kit.com/tools/image-cropper/) - Crop images
+- [Mini-Tools.uk Image Tools](https://mini-tools.uk/image) - Self-recommending a browser image resize, crop, and compress tool with local preview and JPG/WebP export for quick image optimization and dimension changes.
 - [Add Text](https://img-kit.com/tools/add-text-to-image/) - Add text overlay
 
 ## Optimize
