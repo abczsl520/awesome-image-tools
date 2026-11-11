@@ -11,6 +11,7 @@ Free online image tools - resize, convert, compress, and edit.
 - [Image Resizer](https://img-kit.com/tools/image-resizer/) - Resize images online
 - [Image Cropper](https://img-kit.com/tools/image-cropper/) - Crop images
 - [Add Text](https://img-kit.com/tools/add-text-to-image/) - Add text overlay
+- [ImagineHero](https://imaginehero.com/) - Free in-browser editor with layers, PSD support, crop, compress, and on-device background removal
 
 ## Optimize
 - [Image Compressor](https://img-kit.com/tools/image-compressor/) - Compress images
